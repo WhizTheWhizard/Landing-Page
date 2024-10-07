@@ -20,16 +20,15 @@ nav{
     color: white;
     align-items: baseline;
     padding: 16px;
-    margin: 0   150px;
 }
 .divone{
     display: flex;
     color: white;
     flex: auto;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 100px 100px;
     align-items: center;
-    margin: 0   150px;
+
 }
 .divone .head{
     font-size: 48px; 
